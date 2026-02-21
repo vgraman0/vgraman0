@@ -25,9 +25,7 @@ I'm a software engineer at IMC Trading on the Valuation team for FICC/Index, wor
 
 ### 📊 Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vgraman0&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=vgraman0&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=vgraman0&theme=gruvbox&border_radius=4.5)
 
 #
 
