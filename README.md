@@ -33,14 +33,6 @@ I'm a software engineer at IMC Trading on the Valuation team for FICC/Index, wor
 
 - **Systems & Architecture** — distributed systems, database internals, scalability patterns
 - **Deep Learning** — neural networks, computer vision, LLMs
-- **Agentic AI** — multi-agent systems, LangGraph, building with AI as a force multiplier
-- **Quantitative Finance** — derivatives pricing, volatility modeling
-
-#
-
-<details>
-   <summary><h3>👨‍💻 My Journey</h3></summary>
-   I came out of UC Berkeley with a heavy math background — I once took 10 math courses in a single semester. That led me to IMC Trading in Chicago, where I joined the Valuation team building pricing tools for fixed income and index products. After hitting my stride there, I took on managing interns and discovered a real passion for mentoring and clear technical communication. Mid-2025, I made the leap to relocate to IMC's Mumbai office to push myself into new challenges and expanded responsibilities. Along the way, I shifted from passively consuming courses to actively building — making 3-4 project prototypes every few months, writing technical blog posts, and working toward launching a product to real users. The goal isn't just to learn; it's to build things that matter.
-</details>
+- **Operating Systems** — memory management, scheduling, concurrency primitives
 
 [website]: https://vgraman0.github.io
