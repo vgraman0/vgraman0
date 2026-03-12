@@ -2,7 +2,7 @@
 
 **`Software Engineer | Technical Writer | Lifelong Learner`**
 
-I'm a software engineer at IMC Trading on the Valuation team for FICC/Index, working on volatility modeling, rates modeling, and early exercise pricing. UC Berkeley alum with a deep love for mathematics. I spend my time building projects across distributed systems, deep learning, and agentic AI — and writing about what I learn along the way on my [blog](https://vgraman0.github.io).
+I'm a software engineer at IMC Trading on the Valuation team for FICC/Index, working on volatility modeling, rates modeling, and early exercise pricing. UC Berkeley alum with a deep love for mathematics. I spend my time building projects across distributed systems, deep learning, and agentic AI. I'm writing about what I learn along the way on my [blog](https://vgraman0.github.io).
 
    <p align="left">
       <a href="https://github.com/vgraman0?tab=followers">
