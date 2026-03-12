@@ -13,7 +13,7 @@ I'm a software engineer at IMC Trading on the Valuation team for FICC/Index, wor
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -23,13 +23,13 @@ I'm a software engineer at IMC Trading on the Valuation team for FICC/Index, wor
 
 #
 
-### 📊 Stats
+### Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vgraman0&theme=gruvbox&border_radius=4.5)
 
 #
 
-### 📝 What I'm Into Right Now
+### What I'm Into Right Now
 
 - **Systems & Architecture** — distributed systems, database internals, scalability patterns
 - **Deep Learning** — neural networks, computer vision, LLMs
