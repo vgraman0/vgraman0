@@ -13,16 +13,6 @@ I'm a software engineer at IMC Trading. UC Berkeley alum with a deep love for ma
 
 ---
 
-### Languages and Tools
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-
-#
-
 ### Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vgraman0&theme=gruvbox&border_radius=4.5)
@@ -31,8 +21,8 @@ I'm a software engineer at IMC Trading. UC Berkeley alum with a deep love for ma
 
 ### What I'm Into Right Now
 
-- **Systems & Architecture** — distributed systems, database internals, scalability patterns
-- **Deep Learning** — neural networks, computer vision, LLMs
-- **Operating Systems** — memory management, scheduling, concurrency primitives
+- **Systems & Architecture**: distributed systems, database internals, scalability patterns
+- **Deep Learning**: neural networks, LLMs, JAX
+- **Operating Systems**: memory management, scheduling, concurrency primitives
 
 [website]: https://vgraman0.github.io
